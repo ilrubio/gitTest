@@ -11,6 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+        print("git is fun")
         // Do any additional setup after loading the view.
     }
 
